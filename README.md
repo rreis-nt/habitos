@@ -103,7 +103,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 **Ryan Reis (RREISNT)**
 - GitHub: [@rreisnt](https://github.com/rreisnt)
-- LinkedIn: [Ryan Reis]([https://linkedin.com/in/ryanreis](https://www.linkedin.com/in/ryanreisoliveira/))
+- LinkedIn: [Ryan Reis](https://www.linkedin.com/in/ryanreisoliveira/)
 
 ---
 
